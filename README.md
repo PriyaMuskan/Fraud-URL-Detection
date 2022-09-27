@@ -1,0 +1,3 @@
+# Fraud-URL-Detection
+Phishing is popular among attackers, since it is easier to trick someone into clicking a malicious link which seems legitimate than trying to break through a computer’s defense systems. In this Project I have explained that Phishing Domain (or Fraudulent Domain) characteristics, the features that distinguish them from Legitimate Domains and how they can be detected using various Machine Learning and Feature Selection techniques, ended up with the valid accuracy scores and  feature importance scores of the each corresponding features.
+[Summary.pdf](https://github.com/PriyaMuskan/Fraud-URL-Detection/files/9658699/Summary.pdf)
